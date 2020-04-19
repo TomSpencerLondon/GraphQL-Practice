@@ -1,0 +1,16 @@
+{
+  "name": "graphqlpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node hello.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
